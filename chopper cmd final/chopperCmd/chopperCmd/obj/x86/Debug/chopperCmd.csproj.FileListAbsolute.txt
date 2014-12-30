@@ -1,0 +1,475 @@
+c:\users\daniel hogan\documents\visual studio 2010\Projects\chopperCmd\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daniel hogan\documents\visual studio 2010\Projects\chopperCmd\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\daniel hogan\documents\visual studio 2010\Projects\chopperCmd\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+c:\users\daniel hogan\documents\visual studio 2010\Projects\chopperCmd\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+c:\users\daniel hogan\documents\visual studio 2010\Projects\chopperCmd\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+c:\users\daniel hogan\documents\visual studio 2010\Projects\chopperCmd\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+c:\users\daniel hogan\documents\visual studio 2010\Projects\chopperCmd\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\daniel\chopperCmd\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\daniel\chopperCmd\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\daniel\chopperCmd\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\daniel\chopperCmd\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\daniel\chopperCmd\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel hogan\Documents\My Dropbox\projects\daniel\chopperCmd\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\daniel\chopperCmd\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+U:\week2 Moving background\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\week2 Moving background\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+U:\week2 Moving background\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+U:\week2 Moving background\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+U:\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+U:\week3- collision detection\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\week3- collision detection\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+U:\week3- collision detection\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+U:\week3- collision detection\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\flameman.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Credits.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Main Menu.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\Tutorial.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+U:\week3- collision detection\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\flameman.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Credits.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Main Menu.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Tutorial.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\flameman.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Credits.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Main Menu.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Tutorial.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\choppershoot.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\MM.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+G:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+G:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\flameman.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Credits.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Main Menu.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Tutorial.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\choppershoot.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\MM.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+H:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+H:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+H:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\flameman.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Credits.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Main Menu.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Tutorial.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\choppershoot.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\MM.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\boss.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background01.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background02.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background03.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background04.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background05.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyA.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\enemyB.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\flameman.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Credits.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Main Menu.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Tutorial.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\chopper.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\choppershoot.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\MM.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\boss.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+F:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+F:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+F:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+L:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+L:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background01.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background02.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background03.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background04.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background05.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\chopper.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\choppershoot.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyA.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyB.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\boss.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv1.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Credits.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\MM.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\rockets.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\rockets.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\DST-AngryMod.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\DST-AngryMod.wma
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\SpriteFont1.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupRocketsLv1.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background01.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background02.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background03.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background04.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background05.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyA.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyB.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Credits.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\chopper.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\choppershoot.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\MM.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\boss.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv1.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\rockets.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\rockets.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupRocketsLv1.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\DST-AngryMod.xnb
+G:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Debug\Content\DST-AngryMod.wma
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background01.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background02.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background03.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background04.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background05.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyA.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyB.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Credits.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\chopper.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\choppershoot.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\MM.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\boss.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv1.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\rockets.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\rockets.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+L:\week5\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\week5\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\week5\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+L:\week5\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\rocketnumber.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\Rocket.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\GunSlow.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Pause.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupShield.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\choppershield.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv2.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv3.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupRockets.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\ForFreedom.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\Helicopter.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\BulletImpact.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\RocketExp.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\BulletPig.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\PowerUpBullet.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\PowerUpShield.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background01.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background02.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background03.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background04.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background05.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyA.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyB.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Credits.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\chopper.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\choppershoot.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\MM.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\boss.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv1.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\rockets.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\rockets.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Pause.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupShield.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\choppershield.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv2.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv3.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupRockets.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\rocketnumber.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\DST-AngryMod.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\Rocket.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\GunSlow.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\ForFreedom.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\Helicopter.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\BulletImpact.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\RocketExp.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\BulletPig.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\PowerUpBullet.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\PowerUpShield.xnb
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\DST-AngryMod.wma
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+H:\week5\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+H:\week5\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\week5\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\week5\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+H:\week5\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial2.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial3.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\ChopperCmd.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\ChopperCmd.wma
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemydeath.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Game Over.xnb
+L:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\PowerUpRocket.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background01.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background02.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background03.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background04.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Background\Background05.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\bullet.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Bitmap1.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyA.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemyB.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Credits.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\chopper.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\choppershoot.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\MM.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\boss.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv1.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\rockets.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\rockets.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Pause.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupShield.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Chopper Sprites\choppershield.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv2.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupBulletLv3.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Powerups\PowerupRockets.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial2.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Tutorial3.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemydeath.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Menus\Game Over.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\counter.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\text.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\rocketnumber.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\Rocket.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\GunSlow.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\ForFreedom.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\Helicopter.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\BulletImpact.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\RocketExp.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\BulletPig.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\PowerUpBullet.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\PowerUpShield.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Soundeffects\PowerUpRocket.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\ChopperCmd.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\ChopperCmd.wma
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.exe
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\chopperCmd.pdb
+G:\week5\chopperCmd\chopperCmd\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\week5\chopperCmd\chopperCmd\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\week5\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+G:\week5\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Score.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\enemy.xnb
+G:\week5\chopperCmd\chopperCmd\bin\x86\Debug\Content\Enemies & Bosses\sovietbacon.xnb
+C:\Users\Dennis\Dropbox\chopperCmd\chopper cmd final\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.exe
+C:\Users\Dennis\Dropbox\chopperCmd\chopper cmd final\chopperCmd\chopperCmd\obj\x86\Debug\chopperCmd.pdb

@@ -1,0 +1,46 @@
+Content\Background\Background01.xnb
+Content\Background\Background02.xnb
+Content\Background\Background03.xnb
+Content\Background\Background04.xnb
+Content\Background\Background05.xnb
+Content\bullet.xnb
+Content\Bitmap1.xnb
+Content\Enemies & Bosses\enemyA.xnb
+Content\Enemies & Bosses\enemyB.xnb
+Content\Menus\Credits.xnb
+Content\Menus\Tutorial.xnb
+Content\Chopper Sprites\chopper.xnb
+Content\Chopper Sprites\choppershoot.xnb
+Content\Menus\MM.xnb
+Content\Enemies & Bosses\boss.xnb
+Content\Powerups\PowerupBulletLv1.xnb
+Content\Enemies & Bosses\rockets.xnb
+Content\rockets.xnb
+Content\Menus\Pause.xnb
+Content\Powerups\PowerupShield.xnb
+Content\Chopper Sprites\choppershield.xnb
+Content\Powerups\PowerupBulletLv2.xnb
+Content\Powerups\PowerupBulletLv3.xnb
+Content\Powerups\PowerupRockets.xnb
+Content\Menus\Tutorial2.xnb
+Content\Menus\Tutorial3.xnb
+Content\Enemies & Bosses\enemydeath.xnb
+Content\Menus\Game Over.xnb
+Content\counter.xnb
+Content\text.xnb
+Content\rocketnumber.xnb
+Content\Soundeffects\Rocket.xnb
+Content\Soundeffects\GunSlow.xnb
+Content\Soundeffects\ForFreedom.xnb
+Content\Soundeffects\Helicopter.xnb
+Content\Soundeffects\BulletImpact.xnb
+Content\Soundeffects\RocketExp.xnb
+Content\Soundeffects\BulletPig.xnb
+Content\Soundeffects\PowerUpBullet.xnb
+Content\Soundeffects\PowerUpShield.xnb
+Content\Soundeffects\PowerUpRocket.xnb
+Content\ChopperCmd.xnb
+Content\ChopperCmd.wma
+Content\Score.xnb
+Content\Enemies & Bosses\enemy.xnb
+Content\Enemies & Bosses\sovietbacon.xnb

@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background\Background01.png</Source>
+      <Name>Background\Background01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background01.xnb</Output>
+      <Time>2012-02-09T17:11:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Background02.png</Source>
+      <Name>Background\Background02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background02.xnb</Output>
+      <Time>2012-02-09T17:12:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Background03.png</Source>
+      <Name>Background\Background03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background03.xnb</Output>
+      <Time>2012-02-09T17:14:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Background04.png</Source>
+      <Name>Background\Background04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background04.xnb</Output>
+      <Time>2012-02-09T17:15:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\Background05.png</Source>
+      <Name>Background\Background05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background05.xnb</Output>
+      <Time>2012-02-09T17:16:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\bullet.xnb</Output>
+      <Time>2012-02-29T19:14:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bitmap1.bmp</Source>
+      <Name>Bitmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Bitmap1.xnb</Output>
+      <Time>2012-02-13T11:56:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies &amp; Bosses\enemyA.PNG</Source>
+      <Name>Enemies &amp; Bosses\enemyA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Enemies &amp; Bosses\enemyA.xnb</Output>
+      <Time>2012-02-18T18:15:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies &amp; Bosses\enemyB.PNG</Source>
+      <Name>Enemies &amp; Bosses\enemyB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Enemies &amp; Bosses\enemyB.xnb</Output>
+      <Time>2012-02-18T18:15:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\Credits.png</Source>
+      <Name>Menus\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Menus\Credits.xnb</Output>
+      <Time>2012-02-28T18:16:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\Tutorial.png</Source>
+      <Name>Menus\Tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Menus\Tutorial.xnb</Output>
+      <Time>2012-02-23T12:18:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Chopper Sprites\chopper.png</Source>
+      <Name>Chopper Sprites\chopper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Chopper Sprites\chopper.xnb</Output>
+      <Time>2012-02-25T13:43:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Chopper Sprites\choppershoot.png</Source>
+      <Name>Chopper Sprites\choppershoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Chopper Sprites\choppershoot.xnb</Output>
+      <Time>2012-02-25T15:38:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MM.png</Source>
+      <Name>Menus\MM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Menus\MM.xnb</Output>
+      <Time>2012-03-01T09:21:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies &amp; Bosses\boss.png</Source>
+      <Name>Enemies &amp; Bosses\boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Enemies &amp; Bosses\boss.xnb</Output>
+      <Time>2012-02-27T17:02:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerups\PowerupBulletLv1.png</Source>
+      <Name>Powerups\PowerupBulletLv1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Powerups\PowerupBulletLv1.xnb</Output>
+      <Time>2012-02-29T22:35:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies &amp; Bosses\rockets.png</Source>
+      <Name>Enemies &amp; Bosses\rockets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Enemies &amp; Bosses\rockets.xnb</Output>
+      <Time>2012-02-29T22:46:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>rockets.png</Source>
+      <Name>rockets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\rockets.xnb</Output>
+      <Time>2012-02-29T22:46:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>counter.spritefont</Source>
+      <Name>counter</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\counter.xnb</Output>
+      <Time>2012-02-23T12:48:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>text.spritefont</Source>
+      <Name>text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\text.xnb</Output>
+      <Time>2012-02-23T12:49:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>DST-AngryMod.mp3</Source>
+      <Name>DST-AngryMod</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\DST-AngryMod.xnb</Output>
+      <Extra>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\DST-AngryMod.wma</Extra>
+      <Time>2012-02-29T23:00:16+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>L:\week4 -latest\chopperCmd\chopperCmdContent\</RootDirectory>
+      <LoggerRootDirectory>L:\week4 -latest\chopperCmd\chopperCmd\</LoggerRootDirectory>
+      <IntermediateDirectory>L:\week4 -latest\chopperCmd\chopperCmdContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-07T18:07:32.4464309+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

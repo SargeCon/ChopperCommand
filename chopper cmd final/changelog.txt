@@ -1,0 +1,14 @@
+7/2/11:15:23:Daniel	- chopper can now move in x and y axis. 
+			- chopper.bounce() stops the chopper from going out of bounds.
+
+
+-- v1.0.1 --
+9/2/12 Everyone - Background auto-scrolls
+		- Bullets were added. Change the speed and location at which the bullets spawn. Limited how many bullets per second
+		- Make the backgrounds transparent on chopper an bullet.
+		- Put everything together
+		- Chopper moves according to time delta same as bullets.
+
+10/2/12 Daniel 	- neater code.
+		- added gamePad support.
+		- added boost to chopper.

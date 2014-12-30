@@ -1,0 +1,22 @@
+c:\users\daniel hogan\documents\visual studio 2010\Projects\chopperCmd\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\daniel\chopperCmd\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\week2-latest\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\week2 Moving background\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Desktop\week2 Moving background\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- neater code\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dennis\Dropbox\chopperCmd\daniel\week2- gamePad\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Desktop\week2- gamePad\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\daniel\week3- collision detection\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\week3- collision detection\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Documents\My Dropbox\projects\chopperCmd\week4 -latest\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\week4 -latest\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\week4 -latest\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\week4 -latest\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel hogan\Desktop\week4 -latest\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\week4 -latest\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\week4 -latest\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\week5\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\week5\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\week5\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dennis\Dropbox\chopperCmd\chopper cmd final\chopperCmd\chopperCmdContent\obj\x86\Debug\ResolveAssemblyReference.cache

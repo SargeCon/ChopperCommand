@@ -1,0 +1,28 @@
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background01.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background02.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background03.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background04.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Background\Background05.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\bullet.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Bitmap1.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Enemies & Bosses\enemyA.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Enemies & Bosses\enemyB.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Menus\Credits.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Menus\Tutorial.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Chopper Sprites\chopper.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Chopper Sprites\choppershoot.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Menus\MM.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Enemies & Bosses\boss.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Powerups\PowerupBulletLv1.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\Enemies & Bosses\rockets.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\rockets.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\counter.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\text.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\DST-AngryMod.xnb
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\Content\DST-AngryMod.wma
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\chopperCmd.exe
+L:\week4 -latest\chopperCmd\chopperCmd\bin\x86\Release\chopperCmd.pdb
+L:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Release\ResolveAssemblyReference.cache
+L:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Release\chopperCmd.exe
+L:\week4 -latest\chopperCmd\chopperCmd\obj\x86\Release\chopperCmd.pdb
